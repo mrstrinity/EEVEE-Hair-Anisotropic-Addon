@@ -26,4 +26,12 @@ Yes; these were all rendered in EEVEE.
 **That's it!**
 
 ## How to use the nodes
-*(If you're seeing this, the video is not up yet. Stay tuned; it's coming soon.)*
+*(If you're seeing this, that means the video is not up yet. Stay tuned; it's coming soon.)*
+
+# Things to note
+These are some of my observations. If there are any more things to note or confirm, I will update this.
+
+- You *could* use these in Cycles. *(Though I don't see why you'd use the anisotrophic node there... I dunno. I don't use Cyles for my projects.)*
+- I made this with 3.6.15 in mind. I don't know if you can use these with Blender 2.8 going up, but you CAN use this on Blender 4.5.5 LTS.
+
+Any issues and thoughts? Lemme know! 
