@@ -8,6 +8,9 @@ I finally decided to make [this](https://payhip.com/b/PsFS5) an addon. So now, y
 <img width="374" height="235" alt="Screenshot 2026-02-17 220309" src="https://github.com/user-attachments/assets/e88159ab-3208-43c5-b8e1-3823fcbd0103" />
 
 # Examples of it being used
+Yes; these were all rendered in EEVEE.
+
+<img width="827" height="861" alt="Screenshot 2026-02-17 223913" src="https://github.com/user-attachments/assets/744a92ca-9c1a-4a90-9035-87b0f1c9e9e9" />
 <img width="1733" height="1320" alt="victor" src="https://github.com/user-attachments/assets/bb9ee62c-cadd-49ee-a95d-d3a43987b6fd" />
 <img width="1920" height="1080" alt="Andy PBSDF" src="https://github.com/user-attachments/assets/b30bc19a-5c06-4c2e-b09d-b1f570abfadb" />
 <img width="2786" height="2296" alt="chipnail" src="https://github.com/user-attachments/assets/7a9403ff-4c5b-4d12-abb0-a9ff74a20f8d" />
