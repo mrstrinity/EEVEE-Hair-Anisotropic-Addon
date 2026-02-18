@@ -1,5 +1,5 @@
 # EEVEE Hair Anisotropy Pak! Addon
-Why doesn't Blender have anisotropy by default? That's alright. I got it. 
+Why doesn't Blender have anisotropy for EEVEE by default? That's alright. I got it. 
 
 I finally decided to make [this](https://payhip.com/b/PsFS5) an addon. So now, you don't have to append these two nodes ***every time*** anymore. It'll always be there (As long as the addon is installed, of course.
 
