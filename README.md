@@ -15,4 +15,15 @@ Yes; these were all rendered in EEVEE.
 <img width="1920" height="1080" alt="Andy PBSDF" src="https://github.com/user-attachments/assets/b30bc19a-5c06-4c2e-b09d-b1f570abfadb" />
 <img width="2786" height="2296" alt="chipnail" src="https://github.com/user-attachments/assets/7a9403ff-4c5b-4d12-abb0-a9ff74a20f8d" />
 
+# How-To's
+## Installation
+- Go under the "Releases" tab and download the hair_anisotropy_pak.zip.
+- **DO NOT EXTRACT THE ZIP.** That is the addon.
+- In Blender, go to Edit > Preferences > Addons and click the Install button.
+- Find where you placed the zip. I would highly recommend you put this somewhere in a more organzied spot. Like a "Blender addons" folder.
+- Once you click on it, you should see "Node: EEVEE Anisotropy Hair Addon!" click the checkbox. 
 
+**That's it!**
+
+## How to use the nodes
+*(If you're seeing this, the video is not up yet. Stay tuned; it's coming soon.)*
