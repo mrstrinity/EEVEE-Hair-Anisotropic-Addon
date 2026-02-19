@@ -26,7 +26,7 @@ Yes; these were all rendered in EEVEE.
 **That's it!**
 
 ## How to use the nodes
-https://www.youtube.com/watch?v=pk5b0QImzaM&t=13s
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pk5b0QImzaM?si=vY1aryT_vIJEHesk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # Things to note
 These are some of my observations. If there are any more things to note or confirm, I will update this.
