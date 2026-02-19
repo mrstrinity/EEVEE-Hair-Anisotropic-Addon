@@ -26,7 +26,7 @@ Yes; these were all rendered in EEVEE.
 **That's it!**
 
 ## How to use the nodes
-*(If you're seeing this, that means the video is not up yet. Stay tuned; it's coming soon.)*
+https://www.youtube.com/watch?v=pk5b0QImzaM&t=13s
 
 # Things to note
 These are some of my observations. If there are any more things to note or confirm, I will update this.
